@@ -8,32 +8,34 @@
 </p>
 
 <p align="center">
-  <b>Software and cloud platforms that hold up in production.</b><br>
-  Senior engineers for software, AI, cloud and DevOps, with security built into every piece.
+  <b>AI-native security that detects, learns and adapts on its own.</b><br>
+  For Windows, Linux and macOS. Built for modern attacks, including AI-powered ones.
 </p>
 
 <p align="center">
   <a href="https://ceynovahq.com">Website</a> ·
-  <a href="https://ceynovahq.com/contact/">Book a free review</a> ·
+  <a href="https://ceynovahq.com/contact/?topic=product">Join the closed beta waitlist</a> ·
   <a href="mailto:hello@ceynovahq.com">hello@ceynovahq.com</a>
 </p>
 
 ---
 
-### What we do
+### CeyNova
+
+CeyNova is an AI-native security suite for endpoints.
 
 | | |
 |---|---|
-| **Software and AI** | Web and mobile apps, APIs and backends, AI chatbots that answer from your own data, and agents that carry out multi-step work with a person approving what matters. |
-| **Cloud, platform and DevOps** | AWS landing zones, networking and identity in Terraform and OpenTofu. EKS and Kubernetes, CI/CD on GitHub Actions, GitOps, observability and cost reduction. Azure and GCP too. |
-| **Security, built in** | Least-privilege access without shared keys, policy as code and network boundaries by default. Fixed-scope security reviews of cloud and Kubernetes environments. |
+| **Detect** | Spots attacks on Windows, Linux and macOS as they happen, including techniques it has not seen before. |
+| **Investigate** | An AI analyst connects related signals, separates real attacks from noise and explains each incident in plain language. |
+| **Respond** | Contains threats within the limits you set. You choose what runs on its own and what waits for approval. |
+| **Learn and adapt** | Every attempt sharpens its defences, on that host and across your whole fleet. |
 
-### How we work
+Every automated decision is explained and logged. CeyNova will be available hosted by us, with a self-hosted option planned for teams whose security data must stay inside their own environment.
 
-1. **Scope.** A free 30-minute review, then a fixed proposal: scope, deliverables and price in writing.
-2. **Build.** In your repositories and cloud accounts, with short written updates as we go.
-3. **Deliver.** Code and infrastructure you own, documented well enough to run without us.
-4. **Hand over.** A walkthrough with your team. Ongoing support only if you want it.
+### Status
+
+CeyNova is in **closed beta, by invitation**. Join the waitlist at [ceynovahq.com](https://ceynovahq.com/contact/?topic=product).
 
 ### Security
 
