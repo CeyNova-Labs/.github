@@ -8,34 +8,46 @@
 </p>
 
 <p align="center">
-  <b>AI-native security that detects, learns and adapts on its own.</b><br>
-  For Windows, Linux and macOS. Built for modern attacks, including AI-powered ones.
+  <b>CeyNox Security: AI that defends every device.</b><br>
+  AI-native endpoint security for Windows, Linux and macOS, from CeyNova Labs.
 </p>
 
 <p align="center">
   <a href="https://ceynovahq.com">Website</a> ·
-  <a href="https://ceynovahq.com/contact/?topic=product">Join the closed beta waitlist</a> ·
+  <a href="https://ceynovahq.com/#faq">FAQ</a> ·
+  <a href="https://ceynovahq.com/contact/?topic=product">Request an invite</a> ·
   <a href="mailto:hello@ceynovahq.com">hello@ceynovahq.com</a>
 </p>
 
 ---
 
-### CeyNova
+### CeyNox Security
 
-CeyNova is an AI-native security suite for endpoints.
+[CeyNox](https://ceynovahq.com) uses AI to defend every Windows, Linux and macOS device from any attack, AI-driven or not, and acts on its own within limits you set.
 
 | | |
 |---|---|
-| **Detect** | Spots attacks on Windows, Linux and macOS as they happen, including techniques it has not seen before. |
-| **Investigate** | An AI analyst connects related signals, separates real attacks from noise and explains each incident in plain language. |
-| **Respond** | Contains threats within the limits you set. You choose what runs on its own and what waits for approval. |
-| **Learn and adapt** | Every attempt sharpens its defences, on that host and across your whole fleet. |
+| **Sees** | An agent on every device watches processes, network, DNS, files and sign-ins. |
+| **Judges** | Its AI investigates what the agent sees, attack by attack, and learns each device's normal. |
+| **Acts** | Its agents freeze or stop processes, quarantine files, block connections and isolate a host on their own. |
 
-Every automated decision is explained and logged. CeyNova will be available hosted by us, with a self-hosted option planned for teams whose security data must stay inside their own environment.
+**You set the limits.** There are five autonomy levels, from Observe only to Fully autonomous. Every level has hourly limits, a circuit breaker and protected hosts, and every action is explained, logged and can be undone.
+
+**Your cloud or ours.** Run CeyNox on your own infrastructure, or on a dedicated instance we host. Its AI runs on Claude, or on models you host yourself.
+
+### One attack, stopped in 145 ms
+
+In a test, a malicious Python package was installed with pip on a Linux dev server running the CeyNox agent:
+
+- The AI read the package's code and found it malicious in about 5 to 6 seconds.
+- The agent quarantined the installed package 239 ms after the verdict.
+- A script then imported a second copy still on disk. CeyNox froze it, stopped it and cut the server off the network, with containment confirmed 145 ms after it ran. No outbound connection was made.
+
+CeyNox does not block packages during install. [The full run, on the clock.](https://ceynovahq.com/#demo)
 
 ### Status
 
-CeyNova is in **closed beta, by invitation**. Join the waitlist at [ceynovahq.com](https://ceynovahq.com/contact/?topic=product).
+CeyNox is in **closed beta, by invitation**. [Request an invite](https://ceynovahq.com/contact/?topic=product) and we will reach out as places open. CeyNox is closed source.
 
 ### Security
 
@@ -43,4 +55,4 @@ Found a vulnerability in something of ours? Please report it privately to
 [security@ceynovahq.com](mailto:security@ceynovahq.com). See our
 [security.txt](https://ceynovahq.com/.well-known/security.txt).
 
-<sub>CeyNova Labs LLC · Sheridan, Wyoming, USA</sub>
+<sub>CeyNova Labs LLC · Sheridan, Wyoming, USA · <a href="https://www.linkedin.com/company/ceynovalabs">LinkedIn</a> · <a href="https://x.com/ceynovalabs">X</a></sub>
