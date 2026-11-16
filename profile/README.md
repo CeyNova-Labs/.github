@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://ceynovahq.com">ceynovahq.com</a> ·
-  <a href="https://ceynovahq.com/#faq">FAQ</a> ·
+  <a href="https://ceynovahq.com/faq/">FAQ</a> ·
   <a href="https://ceynovahq.com/contact/?topic=product">Request an invite</a> ·
   <a href="mailto:hello@ceynovahq.com">hello@ceynovahq.com</a>
 </p>
