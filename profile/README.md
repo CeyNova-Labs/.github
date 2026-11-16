@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ceynovahq.com">Website</a> ·
+  <a href="https://ceynovahq.com">ceynovahq.com</a> ·
   <a href="https://ceynovahq.com/#faq">FAQ</a> ·
   <a href="https://ceynovahq.com/contact/?topic=product">Request an invite</a> ·
   <a href="mailto:hello@ceynovahq.com">hello@ceynovahq.com</a>
@@ -55,4 +55,4 @@ Found a vulnerability in something of ours? Please report it privately to
 [security@ceynovahq.com](mailto:security@ceynovahq.com). See our
 [security.txt](https://ceynovahq.com/.well-known/security.txt).
 
-<sub>CeyNova Labs LLC · Sheridan, Wyoming, USA · <a href="https://www.linkedin.com/company/ceynovalabs">LinkedIn</a> · <a href="https://x.com/ceynovalabs">X</a></sub>
+<sub>CeyNova Labs LLC · Sheridan, Wyoming, USA · Our only website is <a href="https://ceynovahq.com">ceynovahq.com</a>, and we only email from @ceynovahq.com addresses · <a href="https://www.linkedin.com/company/ceynovalabs">LinkedIn</a> · <a href="https://x.com/ceynovalabs">X</a></sub>
