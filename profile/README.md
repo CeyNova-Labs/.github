@@ -45,9 +45,17 @@ In a test, a malicious Python package was installed with pip on a Linux dev serv
 
 CeyNox does not block packages during install. [The full run, on the clock.](https://ceynovahq.com/#demo)
 
+### Open source: ceynox-watch
+
+[**ceynox-watch**](https://github.com/CeyNova-Labs/ceynox-watch) shows what a command really does on your machine: every program it starts, every host it talks to, and every credential it touches. Put it in front of `pip install`, `npm install`, a build script or an AI coding agent.
+
+    brew install ceynova-labs/tap/ceynox-watch
+
+It is free, Apache-2.0, and runs on Linux and macOS. It shows you what happened; CeyNox Security is what stops it.
+
 ### Status
 
-CeyNox is in **closed beta, by invitation**. [Request an invite](https://ceynovahq.com/contact/?topic=product) and we will reach out as places open. CeyNox is closed source.
+CeyNox is in **closed beta, by invitation**. [Request an invite](https://ceynovahq.com/contact/?topic=product) and we will reach out as places open. CeyNox Security is closed source. Our free tool, [ceynox-watch](https://github.com/CeyNova-Labs/ceynox-watch), is open source.
 
 ### Security
 
